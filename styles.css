@@ -1,0 +1,34 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid rgb(21, 21, 195);
+    width: 100%;
+}
+
+.intro-container {
+    display: flex;
+}
+
+.profile-image {
+    width: 400px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.profile-description {
+    flex-grow: 1;
+}
+
+.clustrmaps-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* vh is a viewport-relative unit, 100vh is full viewport height */
+    /* text-align: center; */
+    font-size: 30px;
+    /* Change this value to adjust the size */
+}
