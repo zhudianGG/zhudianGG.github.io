@@ -1,2 +1,3 @@
 # zhudianGG.github.io
-My Personal website
+
+Personal homepage, based on the Ink theme of [academic-homepage-templates](https://github.com/Galaxy-Dawn/academic-homepage-templates).
